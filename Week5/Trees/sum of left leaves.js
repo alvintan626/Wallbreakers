@@ -26,4 +26,3 @@ var sumOfLeftLeaves = function(root) {
     if (root){traverse(root)}
     return sum
 };
-
